@@ -1,0 +1,152 @@
+[
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Lola",
+            "last": "Rodrigues"
+        },
+        "email": "lola.rodrigues@example.com",
+        "phone": "(92) 8615-7646",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/22.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Lourdes",
+            "last": "da Cruz"
+        },
+        "email": "lourdes.dacruz@example.com",
+        "phone": "(95) 7477-0974",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/43.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Eliezer",
+            "last": "da Rocha"
+        },
+        "email": "eliezer.darocha@example.com",
+        "phone": "(57) 3894-9215",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/87.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Pelaio",
+            "last": "Moraes"
+        },
+        "email": "pelaio.moraes@example.com",
+        "phone": "(56) 1704-0290",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/90.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Gaudêncio",
+            "last": "Vieira"
+        },
+        "email": "gaudencio.vieira@example.com",
+        "phone": "(95) 6128-7765",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/68.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Raimunda",
+            "last": "da Mata"
+        },
+        "email": "raimunda.damata@example.com",
+        "phone": "(80) 9800-7802",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/74.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Bibiano",
+            "last": "Cardoso"
+        },
+        "email": "bibiano.cardoso@example.com",
+        "phone": "(44) 7406-6934",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/42.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Nêuton",
+            "last": "Moreira"
+        },
+        "email": "neuton.moreira@example.com",
+        "phone": "(22) 5580-5004",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/57.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Nilde",
+            "last": "Santos"
+        },
+        "email": "nilde.santos@example.com",
+        "phone": "(21) 4809-1269",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/82.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "Inamar",
+            "last": "Cavalcanti"
+        },
+        "email": "inamar.cavalcanti@example.com",
+        "phone": "(05) 3758-2694",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/78.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+        }
+    }
+]

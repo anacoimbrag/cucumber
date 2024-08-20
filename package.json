@@ -1,0 +1,21 @@
+{
+  "name": "puc-cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env index.js",
+    "test": "cucumber-js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.9.0",
+    "pactum": "^3.7.1"
+  }
+}
